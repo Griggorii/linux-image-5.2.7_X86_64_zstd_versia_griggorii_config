@@ -4,7 +4,7 @@ kernel linux-image 5.2.7 X86_64 zstd config super speed X2
 Download zstd kernel deb: https://drive.google.com/open?id=1hlJiHXc4i7RbaFlbG3VegTEN5c6rGvR9
 
 My fovarite config setting настройки моего конфига ядро более менее не течет при компиляциях и открытии сложных сайтов , есть ещё конфиг nvidia , но он течет это будет заметно при компиляции т.е либо ядро на нем попробуйте скомпилировать либо 
-проект подобный ядру и увидите как он будет течь , причину искать некогда найдете так дадите знать почему.
+проект подобный ядру и увидите как конфиг с поддержкой ядра nvidia будет течь , причину искать некогда найдете так дадите знать почему.
 
 #
 # Automatically generated file; DO NOT EDIT.
